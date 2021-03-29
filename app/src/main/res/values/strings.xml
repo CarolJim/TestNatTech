@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestNat</string>
+    <string name="iniciar">Iniciar Sesión</string>
+    <string name="version">V2.0</string>
+</resources>
